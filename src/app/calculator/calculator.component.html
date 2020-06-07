@@ -1,0 +1,31 @@
+<div class="card">
+  <div class="card-header">Calculator</div>
+  <div class="card-body">
+      <div id="inp">
+      <input type="number" name="" id="first" placeholder="First Number" [(ngModel)]='fnum'>
+      <input type="number" name="" id="second" placeholder="Second Number" [(ngModel)]='lnum'>
+  </div>
+  <div id="btn">
+      <button type="button" class="btn btn-success" (click)="add()">ADD</button>
+      <button type="button" class="btn btn-warning" (click)="sub()">SUBSTRACT</button>
+      <button type="button" class="btn btn-danger" (click)="mul()">MULTIPLICATION</button>
+      <button type="button" class="btn btn-dark" (click)="div()">DIVISION</button>
+  </div>
+  <button id="res" type="button" class="btn btn-info" (click)="res()" (mouseleave)="resetFalse()">RESET</button>
+
+
+  </div>
+  <div class="alert alert-primary" *ngIf="reset">Calculator is Reset</div>
+
+  <div class="card-footer" *ngIf="addDiv">{{"The Sum of "+ fnum+" and "+lnum+" is"}} {{addition}}
+  </div>
+  <div class="card-footer" *ngIf="subDiv">{{"The Subtraction of "+ fnum+" and "+lnum+" is"}} {{subtraction}}
+  </div>
+  <div class="card-footer" *ngIf="mulDiv">{{"The Multiplication of "+ fnum+" and "+lnum+" is"}} {{multiplication}}
+  </div>
+  <div class="card-footer" *ngIf="divDiv">{{"The Division of "+ fnum+" and "+lnum+" is"}} {{division}}
+  </div>
+
+</div>
+
+

@@ -1,0 +1,42 @@
+.card{
+  width: 50%;
+  margin: auto;
+  margin-top: 5%;
+}
+.card-header{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 40px;
+}
+input{
+  font-size: 25px;
+  padding-left: 10px;
+
+}
+#inp{
+  width: 95%;
+  margin: auto;
+}
+#btn{
+  width: 95%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+#add{
+  background-color: #28a745;
+}
+#first{
+  margin-right: 15px;
+}
+#res{
+  margin-top: 25px;
+  margin-left: 300px;
+}
+.card-footer{
+  background-color: rgba(40, 167, 69, 0.62);
+}
+
+
