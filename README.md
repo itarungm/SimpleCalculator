@@ -28,7 +28,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Help 
 
-If You need any help on this project, you can contact me at Tarun7Mandal@Gmail.Com or (https://www.facebook.com/iTarunGM)
+If You need any help on this project, you can contact me at Tarun7Mandal@Gmail.Com or [iTarunGM](https://www.facebook.com/iTarunGM)
 
 ## Further help
 
