@@ -1,5 +1,8 @@
 You Can Check the Output Here - https://itarungm.github.io/SimpleCalculator/
-# Calculator
+## Background
+This Project includes basic feature of calculator like Addition, Subtraction, Multiplication and Division of Two Numbers with Reset Button which will reset the calculator with a message.
+
+# Simple Calculator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
