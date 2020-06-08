@@ -1,6 +1,6 @@
 You Can Check the Output Here - https://itarungm.github.io/SimpleCalculator/
 ## Background
-This Project includes basic feature of calculator like Addition, Subtraction, Multiplication and Division of Two Numbers with Reset Button which will reset the calculator with a message.
+This Project includes basic feature of calculator like Addition, Subtraction, Multiplication and Division of Two Numbers with Reset Button which will reset the calculator with a message.Its developed by iNCOGNITO (iTarunGM).
 
 # Simple Calculator
 
@@ -26,8 +26,10 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
+## Help 
+
+If You need any help on this project, you can contact me at Tarun7Mandal@Gmail.Com.
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-## Help 
